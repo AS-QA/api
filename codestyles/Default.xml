@@ -1,4 +1,5 @@
 <code_scheme name="Default">
+  <option name="AUTODETECT_INDENTS" value="false" />
   <codeStyleSettings language="JAVA">
     <indentOptions>
       <option name="SMART_TABS" value="true" />
